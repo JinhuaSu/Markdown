@@ -20,7 +20,7 @@ Any periodic function can be expressed as the sum of a series of sinusoids.
 
 Mainly contribution: make the media signals be easily stored.
 
-$y(t)=\frac{2}{\pi}\sum_{k=1}^{n} \frac{\sinkt}{k}$
+$y(t)=\frac{2}{\pi}\sum_{k=1}^{n} \frac{\sin(kt)}{k}$
 
 ### Euler's identity
 Sum of sine and cosines = sum of complex exponentials.
