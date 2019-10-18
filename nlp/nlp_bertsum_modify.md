@@ -22,3 +22,5 @@
 - 2019-10-20 tree-shape data set
 - 2019-10-24 train and test
 - memory mechanism
+## New direction
+- BiSET: soft-template
