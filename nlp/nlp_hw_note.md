@@ -16,9 +16,35 @@
     + HTTP content-type shows file transfering.
 ### urllib2
 - Request Objects
-    + urlopen(url) return file-like object with three additional methods
+    + urlopen(url) returns file-like object with three additional methods
         * geturl()
         * info()
         * getcode()
         * use str function and encoding = 'utf-8' to get HTML code.
-    + 
+    + practice with cookies
+        * What is cookie? a name-value pair sent to the clients by the server at the first time, it helps the server recognize the client for the next time.
+        * Type: conversation cookie and simple cookie
+        * attribution:
+            - NAME = Value
+            - Expires
+            - Domain
+            - Path
+            - Secure: return the cookie only when connecting using SSH(secure shell)
+    + introduction of 0-1 travelling in the internet
+        * client, server
+        * LAN local area network with the rounter
+        * enterprise network with interchanger
+        * proxy server will let clients see the same IP, or help clients use virtual private network
+        * firewall
+        * request and response
+        * package transportation: flow work for current 
+### tricks for efficiency
+- target: to cheat the cops of the server anti_crawling organization
+- VPN: different position
+- cookie: different clients
+- user_agent: Mozilla, window NT
+### re
+### file management
+- with grammar
+- os module
+    
