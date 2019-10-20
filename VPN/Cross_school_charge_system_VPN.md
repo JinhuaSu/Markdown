@@ -25,3 +25,12 @@
 - maybe server download using apt-get is high-speed, but it perform bad in simple cn-net.
     + download: 46.78 Mbit/s
     + upload: 14.56 Mbit/s
+- key problem: serverspeed
+    + can connect but time failed
+    + speed urge different kernel
+- linux kernel change:
+    + linux-image-4.15.0-29-generic         install
+    + max ubuntu 3 - -generic
+- get familiar with shadowsockets
+    + info user connect
+    + info data transfer
