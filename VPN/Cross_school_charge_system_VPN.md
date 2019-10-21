@@ -36,3 +36,20 @@
     + info user connect
     + info data transfer
     + learn about something about ipv6
+- Tecent cloud
+    + software use different way to connect with outside
+    + why it don't function for chrome, maybe its netspeed is slow or security protocol
+## successfully build my VPN to avoid surffing the internet
+- software and browser use different port to get information
+- why tencent server is not allowed to be a VPN
+- WHY THUNDER USE IE PROXY to get no download data but dictionary get data
+- different symbol of connection state
+## speed test(Ping from Wuhan)
+VPN | down(Mbps) | up(Mbps) | bandwidth
+: | : | : | :
+none | 70.09 | 88.58 | unknown
+tencent cloud | 0.32 | 34.38 | 1M
+mingde server | 97.76 | 158.68 | 1000M
+HK VPN | 44.85 | 139.83 | unknown
+JP VPN | 43.88 | 87.94 | unknown
+4G hotpoint(Yidong) | 21.41 | 10.05
