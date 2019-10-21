@@ -45,6 +45,7 @@
 - WHY THUNDER USE IE PROXY to get no download data but dictionary get data
 - different symbol of connection state
 ## speed test(Ping from Wuhan)
+
 VPN | down(Mbps) | up(Mbps) | bandwidth
 : | : | : | :
 none | 70.09 | 88.58 | unknown
@@ -52,4 +53,4 @@ tencent cloud | 0.32 | 34.38 | 1M
 mingde server | 97.76 | 158.68 | 1000M
 HK VPN | 44.85 | 139.83 | unknown
 JP VPN | 43.88 | 87.94 | unknown
-4G hotpoint(Yidong) | 21.41 | 10.05
+4G hotpoint(Yidong) | 21.41 | 10.05 | unknown
