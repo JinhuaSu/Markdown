@@ -6,7 +6,11 @@
 | 10.23 | party constitution learning | YuanXueqiong, ZhangFukang | photographing,writting |
 | 10.23 | leadership investigation | ZengHongze | collecting |
 | 10.30 | Party Branch Training Meeting for master | LiuBohui, ShiXiaoquan | Photographing, writting |
-| 11.6 | Party Branch Training Meeting | LiYihong, ZhangDanyang | Photographing, writting |
+| 11.6 | Party Branch Training Meeting | LiuBohui, ZhangFukang | Photographing, writting |
+| 11.6 | Party Branch Training Meeting for master | JiFangzhu, ZhangDanyang | Photographing, writting |
+| 11.13 | Party Branch Training Meeting | Yuanxueqiong, ZengZehong | Photographing, writting |
+| unknown | visiting museum | , ShiXiaoquan | Photographing, writting |
+
 ## item position
 | item | position |
 | :-- | :--: |
