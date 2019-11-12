@@ -1,31 +1,39 @@
 # BERTSUM_modify
+
 ## Problems
 - labeling
 - predict_combination
+
 ## Conceptions for improvement
 - set-level classifier
 - continuous label or loss
+
 ## Experiments
 - traversing all permutation sets
 - 0-1 labeling
 - 0-1 sequence labeling
 - rouge-score sequence labeling
 - shuffle data with above experiments
+
 ## Problems reiteration
 - label imbalance
 - nonsense position attention
 - risks more than rewards in the optimization
+
 ## Sensable solutions(AutoRegressive)
 - memory mechanism in prediction
 - tree-shape data set
+
 ## Schedule
 - 2019-10-20 tree-shape data set
 - 2019-10-24 train and test
 - memory mechanism
+
 ## New direction
 - BiSET: soft-template
 - Monte calo tree
 - greedy-combination tree
+
 ## calculate loss using tree-struction label
 Assume that the model predict the summary sentences one by one using Auto-Regressive method. Firstly, the model predict the most possible sentence and put it into candidate set, additionally searching for its label in the first floor of the tree to calculate loss-1. Secondly, let the model know about which sentence has been predicted and use the model to predict the most conditionally-possible sentence, accordingly searching down through the first-predicted node and calculating the loss-2 based on the certain subtree. With similiar procedures, you could get the third-predicted tree and loss-3, or you could get more if you like. Pseudocode is in the following.
 
@@ -52,3 +60,7 @@ for i in range(tree_depth):
         break
 model.backpropagation(loss)
 ```
+
+## task
+- problem
+    + how to calculate
