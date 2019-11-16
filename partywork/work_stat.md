@@ -9,7 +9,7 @@
 | 11.6 | Party Branch Training Meeting | LiuBohui, ZhangFukang | Photographing, writting |
 | 11.6 | Party Branch Training Meeting for master | SuJinhua, ZhangDanyang | Photographing, writting |
 | 11.13 | Party Branch Training Meeting | Yuanxueqiong, ZengZehong | Photographing, writting |
-| unknown | visiting museum | , ShiXiaoquan | Photographing, writting |
+| unknown | visiting museum | LiuBohui, ShiXiaoquan | Photographing, writting |
 
 ## item position
 | item | position |
