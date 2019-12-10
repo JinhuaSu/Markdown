@@ -45,3 +45,13 @@
     + definition: in multiple regression, the correlation between the explanatory variables may lead to the larger population variance of the distributions of theit coefficients, thus with a greater risk of obtaining erratic estimates of the coefficients.
     + mathematical proof:
     + F Tests: $H_{0}:\beta_{k+1}=\beta_{k+2}=...=\beta_{m}=0$
+## Chapter 5: transformation of variable
+### key concept
+- basic procedure
+    + nonlinearity in the variables can always be sidestepped by using appropriate definitions
+    + it is now linear in variables as well as in parameters
+- Logarithmic Transformations
+    + elasticity
+    + something about how to get it.
+## Chapter 6: Dummy Variables
+    
