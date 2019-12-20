@@ -20,6 +20,9 @@
     + midtern test(11.19)
     + homework(every week)
     + final exam
+## test point
+- single-tail help for significance
+- specification and full model how to explain it
 ## Chapter 1: Covariance, variance, and correlation
 ## Chapter 2: Simple regression anlysis
 ### key concept
@@ -54,4 +57,7 @@
     + elasticity
     + something about how to get it.
 ## Chapter 6: Dummy Variables
-    
+## Chapter 7: Specification   
+## Chapter 8: Heteroscedasticity   
+
+

@@ -13,10 +13,73 @@ For best situation, I may write a lot of garbage sentences to wake myself up but
 - week as chapter us double# and every weekday use M,T as a subpoint will be fine and a total week slogen and make me more sensitive of a week schedule.
 - If i just write about some trifles or some pity or some not relevant thing, it may not work. So ask myself three thing: what i really like and want, how could I get close to it now, how much time spent on other not so important thing I can sacrife. 11:30 clean up my hw tool and other thing go to carteen and then to the lab. In the middle, I will writting on the online, picture will be drawn in the that(key work, don't listen and drawn).
 
+## Week 15
+
+**week slogen**
+
+Why should I take so many patience on the thing I may not be interested and like a mechine, so I'd like to take a piece of happiness such as my algorithm on the summary.
+
+**Fri**
+
+- Yes, I get the help of the senior and finally get no problem task in the terminal. I really like to adjust the time ddl of the test. Maybe I should take the stochastic regression for granted.
+- Mon(to deal with the geography) do not care too much about the Geograph. Don't pay too much patience on it. The question is more flexibility. I'd like to have an outline review for the stochastic
+  regression and do the test paper directly and make judges about my o. But firstly I'd like to make my small tool for speed preparation or others. Yes I took off the trick mechanism. I really inspire
+  myself totally by myself. Most inspire myself thing is develop a tool for my managing time and something. I really like to record it by my notebook. I like to have a research on the summary and
+  determine whether I will have a chance to send a paper. 
+- I should make it as a sleepy or want to lang's result first, I like to write outline. I also like to hear music so that I will finally get a happy mood or a focus on the question what is the
+  stochastic and the main topic of the it is to study the series variable which may have a strong relation withe the former variable. The question will mainly question the probability and some special
+  quality that can solve the real problem. Hopefully I'd like to have my speed up and make some problem. I find my value is to break the key problem and then get a series of helper to finish what is
+  not so important. 
+- So I'd like to make stochastic review with English and find the key problem and the major problem I should learn and the left I just need to practise and cite it down with a little time or with my
+  review way. I maybe should make a note about the review,
+
+**Thurs**
+
+- I find a time to do really important for my hw and research. Today, Geography and stochastic regression and a try for the research. 
+- 1.regression hw 2.Geography comment 3.Geography hw 4.Mechine Learning Group hw
+- Do not focus on any trifles. 
+
+**Wed**
+
+- Maybe I should get my class PPT first and prepare to learn some thing about A3C. Then I should solve the problem of reward. I should print format game reward and I must change My code for my better
+  known the game. And then I should finish my Mechine Learning HW(2), regression HW(0.5), Geographic Hw in the afternoon(2.5). The evening is for the regression Hw and the a little bit about the
+  stochastic review.
+- To do for the morning and prepare my 
+
+**Tues**
+- I have a plan finish all the group work in the 5 days earlier, but I put it off until here. Because I want to high quality group work and I really learn some thing really useful, now I can say that
+  can always get the shit down. Something about auto indent(30 class test). Parper test should be given more focus and I should prepare for the focus the test.
+- Don't given too much patience on another thing. Tonight should be given to the regression. And I should have some practise for the statsmodels
+
+
+
 ## Week 14
 
 **week slogen**
-Yes I need do what only I can do now so that everyone will be OK, I needn't to care too much about my research now since the study is my mainly problem in this time. And I should know what is push me now and do not make every night to accelerate the work. It is not good. Since I make my pretty work. I need do something only I can do, but a helper everyone could pretend to be.
+- Yes I need do what only I can do now so that everyone will be OK, I needn't to care too much about my research now since the study is my mainly problem in this time. And I should know what is push me now and do not make every night to accelerate the work. It is not good. Since I make my pretty work. I need do something only I can do, but a helper everyone could pretend to be.
+
+**Sun**
+- Today, I must finish all big group hw.
+- 1. Regression group hw. 2. Mechine Learning hw(have one check point in my computer, may can has a time limit try in the server) 3. Geography hw
+- has a work tool to manage my everytime target. have a time limit (regression 10:30 ddl self doing,new columns and speed request or new table get one list and one null table, and search the NULL id to upgrade it) Mechine learning should have a segement test or print each time dimension. Geography, I think I should take a previous work to get a great grade and make the work become less.(fast is great)
+- how can I give up, don't do anything related with the Gaoli test until 4:00. After test, I should participate in the anlysis of the data(by gradual regression deal with the problem and make some plot for the show, two dimension gradual step process a list the error figure and the so book classic plot)
+- 
+
+**Sat**
+- Yes, my state is not very good, because I can not hear what I really want. I must be alone and have a fully talk to myself, even I take my earphone. Now I need to have a good regression flow for the regression. Yes I need to have a menu of the regression: data preprocess,descriptive statistics,feature select and model build(include solve mutlicollinearity), coefficient estimate and test, autocorrelation and heteroscedasticity problem solving, result and analyse. Yes, I have some mission to distribute, but there are some pro:.
+
+**Fri**
+- Yes, keep my grade and take the grade off and then I can get a chance to make a difference. Then I get a chance into Tsuhua or etc then I should care about the money use the grade to go aboard.
+- Grade-hw and group work, review, and the remote geography hw. review on stochastic process. 0. talk about the work(wait for lyk or other comment) 1. Regression hw 2. remote geography hw 3. review(stochastic)
+- don't care about the other thing and time, maybe I can't find a work.
+
+**Thurs** 
+- maybe I don't really talk to myself for so long, yes the task is more urgent than another, But my body can not maintain the best status, So I loss focus in the class, not only for the exygen, but also for my tireness. I develop a lot but it is can't be a long-term, I choose to have a good grade, I must keep the following the first consideration. Firstly, I don't need use 120% power in the every force, I just need to make a 8-2 trade-off when using score maxiumn perspective and the body long-lasting development. First, there is no one urge myself, It's me that push me run and run. But as for the marathon, I know the way.
+- solve fast the problem, or not solve(a half). get regression hw for another version(a half). Learn the stochastic and regression.(at least one hours)
+
+**Wed**
+- Today, I need to learn and do some hw for my terminal review plan. But my group work seems not to have an ending.
+- Solve some problem that we can't use wechat to login/
 
 **Tues**
 - Finishing all of my programme and hw. Ready to start study, research is not necessary now. So I'd like to try hard and make a time limit, I hope make the data down in the am, then pm make the mechine learning group work a finishing demo.(it is not sure there may be some work in the lab  and i must go to there.). In the night, I hope get the geo_report done.
